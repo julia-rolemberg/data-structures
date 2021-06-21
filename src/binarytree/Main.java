@@ -13,8 +13,6 @@ public class Main {
         tree.inorder();
         System.out.println();
 
-
-
         System.out.println("Size: "+ tree.size()+"\n");
     }
 
